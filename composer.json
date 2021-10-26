@@ -1,5 +1,5 @@
 {
-    "name": "spryker-sdk/integrator",
+    "name": "yaroslav-spryker/integrator",
     "bin": ["bin/integrator"],
     "type": "composer-plugin",
     "description": "Integrator module",
